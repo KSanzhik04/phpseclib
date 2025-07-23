@@ -23,39 +23,6 @@
     ],
     "homepage": "https://phpseclib.com/",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Jim Wigginton",
-            "email": "terrafrost@php.net",
-            "role": "Lead Developer"
-        },
-        {
-            "name": "Patrick Monnerat",
-            "email": "pm@datasphere.ch",
-            "role": "Developer"
-        },
-        {
-            "name": "Andreas Fischer",
-            "email": "bantu@phpbb.com",
-            "role": "Developer"
-        },
-        {
-            "name": "Hans-Jürgen Petrich",
-            "email": "petrich@tronic-media.com",
-            "role": "Developer"
-        },
-        {
-            "name": "Graham Campbell",
-            "email": "graham@alt-three.com",
-            "role": "Developer"
-        },
-        {
-            "name": "Jack Worman",
-            "email": "jack.worman@gmail.com",
-            "role": "Developer",
-            "homepage": "https://jackworman.com"
-        }
-    ],
     "require": {
         "php": ">=8.1",
         "paragonie/constant_time_encoding": "^2|^3"
