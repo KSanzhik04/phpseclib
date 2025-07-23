@@ -24,8 +24,9 @@
     "homepage": "https://phpseclib.com/",
     "license": "MIT",
     "require": {
-        "php": ">=8.1",
-        "paragonie/constant_time_encoding": "^2|^3"
+        "php": ">=7.4",
+        "paragonie/constant_time_encoding": "^1|^2|^3",
+        "paragonie/random_compat": "^1.4|^2.0|^9.99.99"
     },
     "require-dev": {
         "ext-xml": "*",
